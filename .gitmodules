@@ -1,0 +1,6 @@
+[submodule "modules/gui"]
+	path = modules/gui
+	url = http://github.com/dirtbirb/labgui-gui
+[submodule "modules/hardware"]
+	path = modules/hardware
+	url = http://github.com/dirtbirb/labgui-hardware
